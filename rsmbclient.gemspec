@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'od@idfuze.com'
   s.files       = ["lib/rsmbclient.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/rsmbclient'
+    'https://github.com/reivilo/rsmbclient'
 end

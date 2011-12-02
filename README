@@ -6,6 +6,12 @@ This class acts as a Ruby wrapper around the smbclient command line utility, all
 
 First release allow to browse some shares, get and put come in next releases
 
+INSTALL :
+
+> gem install rsmbclient
+
+USE :
+
 Example:
 
   smbclient = Rsmbclient.new( :host     =>  'server',
